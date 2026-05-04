@@ -1,5 +1,10 @@
 ﻿# Hands-On Large Language Models CN(ZH)  -- 动手学大模型
 
+<p align="center">
+  <a href="https://apecode.ai/zh"><img src="https://img.shields.io/badge/🦧_ApeCode.ai-AI_Tools_&_Learning-orange?style=flat-square" alt="ApeCode.ai"/></a>
+  <a href="https://apecode.ai/zh/products/aperouter"><img src="https://img.shields.io/badge/🔗_ApeRouter-LLM_API_Proxy-blue?style=flat-square" alt="ApeRouter"/></a>
+</p>
+
 这本书（Hands-On Large Language Models）原作者是 [Jay Alammar](https://www.linkedin.com/in/jalammar/)，[Maarten Grootendorst](https://www.linkedin.com/in/mgrootendorst/)。 英文好的同学强烈推荐支持原书，访问 [原书地址](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) 。
 
 
@@ -16,6 +21,9 @@
 - **配套的中文视频讲解**。
   - [YouTube 视频](https://www.youtube.com/watch?v=BvdAH38BCe8) 
   - [B站视频-chaofa用代码打点酱油](https://www.bilibili.com/video/BV16Am3Y4ES3/)
+
+> [!TIP]
+> 🦧 跑代码需要 LLM API？试试我做的 [ApeRouter](https://apecode.ai/zh/products/aperouter) — 国内直连的 LLM API 路由，支持 Claude / GPT / Kimi 等模型，无需翻墙。更多 AI 学习资源：[ApeCode.ai](https://apecode.ai/zh)
 
 
 ## 目录
@@ -71,3 +79,13 @@ Please consider citing the book if you consider it useful for your research:
   github       = {https://github.com/HandsOnLLM/Hands-On-Large-Language-Models}
 }
 ```
+
+---
+
+## 🦧 More from the Author
+
+- 🌐 **[ApeCode.ai](https://apecode.ai/zh)** — AI 编程工具与学习平台
+- 🔗 **[ApeRouter](https://apecode.ai/zh/products/aperouter)** — 国内直连的 LLM API 路由，支持 Claude / GPT / Kimi
+- 📝 **[yuanchaofa.com](https://yuanchaofa.com)** — 技术博客：LLM / Agent / 深度学习
+- 🎬 **[B站](https://space.bilibili.com/12420432) / [YouTube](https://www.youtube.com/@bbruceyuan)** — 视频教程
+- 💬 微信：`bbruceyuan`（请备注来意）
